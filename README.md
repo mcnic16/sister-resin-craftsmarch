@@ -2,7 +2,7 @@
 
 [View live project]()
 
-
+This is my 2nd attempt at this site, the majority of the code is copied from my 1st attempt.
 This website is the fully functioning website for SisterResin Crafts. Its is designed to be responsive for mobile and tablet and work on all modern browers.
 The site has 5 pages consisting of a Home page, Other Items, Seasonal, Reviews and Querys and a Terms and Conditions page.
 There is also a Search bar, a registration page and the abiilty to buy items and to become an account holder. 
