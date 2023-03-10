@@ -105,6 +105,8 @@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+                {% include 'includes/mobile-top-header.html' %}
+                {% include 'includes/main-nav.html' %}
             </nav>
         </div>
     </div>
@@ -123,6 +125,20 @@
     {% block postloadjs %}
     {% endblock %}
 
-    
+    <!-- footer -->
+    <footer class="mt-auto">
+        <p>Social Links:</p>
+        <a href="https://www.facebook.com/sisterresincrafts/" target="_blank">
+            <i class="fab fa-facebook-square"></i>
+        </a>
+
+        <a href="https://www.etsy.com/uk/market/resin_sister_gift" target="_blank">
+            <i class="fab fa-etsy"></i>
+        </a>
+
+        <a href="https://www.instagram.com/sisters_resincraftsph/" target="_blank">
+            <i class="fab fa-instagram"></i>
+        </a>
+    </footer>
   </body>
 </html>
