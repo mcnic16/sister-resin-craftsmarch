@@ -66,7 +66,7 @@
         "description": "Pennywise coaster from the film IT",
         "price": 6.00,
         "category": 1,
-        "image": "jasonv.jpg"
+        "image": "pennywise.jpg"
     }
 }, {
     "pk": 8,
@@ -206,7 +206,127 @@
         "description": "Johnny Depp coasters ",
         "price": 6.00,
         "category": 1,
-        "image": "cjohnny6.jpg"
+        "image": "cjohnny5.jpg"
+    }
+}, {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+        "name": "Scream Coaster",
+        "description": "scream coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "dscream.jpg"
+    }
+}, {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+        "name": "Scream Coaster",
+        "description": "scream coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "dscream1.jpg"
+    }
+}, {
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+        "name": "Scream Coaster",
+        "description": "scream coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "dscream2.jpg"
+    }
+}, {
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+        "name": "Scream Coaster",
+        "description": "scream coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "dscream3.jpg"
+    }
+}, {
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+        "name": "Beetle Juice",
+        "description": "Beetle Juice ",
+        "price": 6.00,
+        "category": 1,
+        "image": "beetlejuice.jpg"
+    }
+}, {
+    "pk": 27,
+    "model": "products.product",
+    "fields": {
+        "name": "Beetle Juice",
+        "description": "Beetle Juice ",
+        "price": 6.00,
+        "category": 1,
+        "image": "beetlejuice1.jpg"
+    }
+}, {
+    "pk": 28,
+    "model": "products.product",
+    "fields": {
+        "name": "Beetle Juice",
+        "description": "Beetle Juice ",
+        "price": 6.00,
+        "category": 1,
+        "image": "beetlejuice2.jpg"
+    }
+}, {
+    "pk": 29,
+    "model": "products.product",
+    "fields": {
+        "name": "Beetle Juice",
+        "description": "Beetle Juice ",
+        "price": 6.00,
+        "category": 1,
+        "image": "beetlejuice3.jpg"
+    }
+}, {
+    "pk": 30,
+    "model": "products.product",
+    "fields": {
+        "name": "Pretty Little Liars Inspired Coasters",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "prll.jpg"
+    }
+}, {
+    "pk": 31,
+    "model": "products.product",
+    "fields": {
+        "name": "Pretty Little Liars Inspired Coasters",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "prll1.jpg"
+    }
+}, {
+    "pk": 32,
+    "model": "products.product",
+    "fields": {
+        "name": "Pretty Little Liars Inspired Coasters",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "prll2.jpg"
+    }
+}, {
+    "pk": 33,
+    "model": "products.product",
+    "fields": {
+        "name": "Pretty Little Liars Inspired Coasters",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "prll3.jpg"
     }
 }
 ]
