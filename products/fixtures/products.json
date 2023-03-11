@@ -328,5 +328,116 @@
         "category": 1,
         "image": "prll3.jpg"
     }
+}, {
+    "pk": 34,
+    "model": "products.product",
+    "fields": {
+        "name": "Autumnal Orange Gold Crystal Trinkettray ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 2,
+        "image": "oautumnalorangegoldcrystaltrinkettray.jpg"
+    }
+}, {
+    "pk": 35,
+    "model": "products.product",
+    "fields": {
+        "name": "Buffy ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 2,
+        "image": "buffy.jpg"
+    }
+}, {
+    "pk": 36,
+    "model": "products.product",
+    "fields": {
+        "name": "Dirty Dancing ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 2,
+        "image": "odirtydancing.jpg"
+    }
+}, {
+    "pk": 37,
+    "model": "products.product",
+    "fields": {
+        "name": "flower_gold_leaf_trinket_tray ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 2,
+        "image": "oflower_gold_leaf_trinket_tray.jpg"
+    }
+}, {
+    "pk": 38,
+    "model": "products.product",
+    "fields": {
+        "name": "gold_leaf_phone_holder. ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 2,
+        "image": "ogold_leaf_phone_holder.jpg"
+    }
+}, {
+    "pk": 39,
+    "model": "products.product",
+    "fields": {
+        "name": "ohocus_pocus_baubles. ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 3,
+        "image": "ohocus_pocus_baubles.jpg"
+    }
+}, {
+    "pk": 40,
+    "model": "products.product",
+    "fields": {
+        "name": "make_up_brush_holder ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 2,
+        "image": "omake_up_brush_holder.jpg"
+    }
+}, {
+    "pk": 41,
+    "model": "products.product",
+    "fields": {
+        "name": "Pennywise ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 2,
+        "image": "opennywise.jpg"
+    }
+}, {
+    "pk": 42,
+    "model": "products.product",
+    "fields": {
+        "name": "orangeandgoldautumnalfloralphonestand. ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 2,
+        "image": "orangeandgoldautumnalfloralphonestand.jpg"
+    }
+}, {
+    "pk": 43,
+    "model": "products.product",
+    "fields": {
+        "name": "oskullandsnaketrinkettray.. ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 2,
+        "image": "oskullandsnaketrinkettray.jpg"
+    }
+}, {
+    "pk": 44,
+    "model": "products.product",
+    "fields": {
+        "name": "otealightholder. ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 2,
+        "image": "otealightholder.jpg"
+    }
 }
+
 ]
