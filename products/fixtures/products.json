@@ -56,7 +56,7 @@
         "description": "Jason Vorhees coaster from Halloween",
         "price": 6.00,
         "category": 1,
-        "image": "michaelmyers.webp"
+        "image": "michaelmyers.jpg"
     }
 }, {
     "pk": 7,
@@ -69,7 +69,144 @@
         "image": "jasonv.jpg"
     }
 }, {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+        "name": "Hocus Pocus Coaster",
+        "description": "Hocus Pocus coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "ahocuspocus.jpg"
+    }
+}, {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+        "name": "Hocus Pocus Coaster",
+        "description": "Hocus Pocus coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "ahocuspocus1.jpg"
+    }
+}, {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+        "name": "Hocus Pocus Coaster",
+        "description": "Hocus Pocus coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "ahocuspocus2.jpg"
+    }
+}, {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+        "name": "Hocus Pocus Coaster",
+        "description": "Hocus Pocus coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "ahocuspocus3.jpg"
+    }
+}, {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+        "name": "Ghostbuster Coaster",
+        "description": "Hocus Pocus coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "bghostbusters.jpg"
+    }
+}, {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+        "name": "Ghostbuster Coaster",
+        "description": "Hocus Pocus coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "bghostbusters1.jpg"
+    }
+}, {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+        "name": "Ghostbuster Coaster",
+        "description": "Hocus Pocus coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "bghostbusters2.jpg"
+    }
+}, {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+        "name": "Ghostbuster Coaster",
+        "description": "Hocus Pocus coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "bghostbusters3.jpg"
+    }
+}, {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+        "name": "Johnny Depp Coaster",
+        "description": "Johnny Depp coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "cjohnny.jpg"
+    }
+}, {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+        "name": "Johnny Depp Coaster",
+        "description": "Johnny Depp coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "cjohnny1.jpg"
+    }
+}, {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+        "name": "Johnny Depp Coaster",
+        "description": "Johnny Depp coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "cjohnny2.jpg"
+    }
+}, {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+        "name": "Johnny Depp Coaster",
+        "description": "Johnny Depp coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "cjohnny3.jpg"
+    }
+}, {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+        "name": "Johnny Depp Coaster",
+        "description": "Johnny Depp coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "cjohnny4.jpg"
+    }
+}, {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+        "name": "Johnny Depp Coaster",
+        "description": "Johnny Depp coasters ",
+        "price": 6.00,
+        "category": 1,
+        "image": "cjohnny6.jpg"
+    }
 }
-
-    
 ]
