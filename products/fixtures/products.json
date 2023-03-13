@@ -438,6 +438,136 @@
         "category": 2,
         "image": "otealightholder.jpg"
     }
-}
+}, {
+    "pk": 45,
+    "model": "products.product",
+    "fields": {
+        "name": "sbaubles_group.. ",
+        "description": "sbaubles_group. ",
+        "price": 6.00,
+        "category": 3,
+        "image": "sbaubles_group.jpg"
+    }
+}, {
+    "pk": 46,
+    "model": "products.product",
+    "fields": {
+        "name": "sfreddie_christmas_card. ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 3,
+        "image": "sfreddie_christmas_card..jpg"
+    }
+}, {
+    "pk": 47,
+    "model": "products.product",
+    "fields": {
+        "name": "sghostface_christmas_card. ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 3,
+        "image": "sghostface_christmas_card.jpg"
+    }
+}, {
+    "pk": 48,
+    "model": "products.product",
+    "fields": {
+        "name": "sjason_christmas_card ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 3,
+        "image": "sjason_christmas_card.jpg"
+    }
+}, {
+    "pk": 49,
+    "model": "products.product",
+    "fields": {
+        "name": "smerry_killmas_card.. ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 3,
+        "image": "smerry_killmas_card..jpg"
+    }
+}, {
+    "pk": 50,
+    "model": "products.product",
+    "fields": {
+        "name": "smichael_myers_bauble ",
+        "description": "Pretty Little Liars Inspired Coasters ",
+        "price": 6.00,
+        "category": 3,
+        "image": "smichael_myers_bauble.jpg"
+    }
+    }, {
+        "pk": 51,
+        "model": "products.product",
+        "fields": {
+            "name": "smerry_killmas_card.. ",
+            "description": "Pretty Little Liars Inspired Coasters ",
+            "price": 6.00,
+            "category": 3,
+            "image": "smerry_killmas_card..jpg"
+        }
+    }, {
+        "pk": 52,
+        "model": "products.product",
+        "fields": {
+            "name": "smichael_myers_bauble. ",
+            "description": "Pretty Little Liars Inspired Coasters ",
+            "price": 6.00,
+            "category": 3,
+            "image": "smichael_myers_bauble.jpg"
+        }
+    }, {
+        "pk": 53,
+        "model": "products.product",
+        "fields": {
+            "name": "smicheal_christmas_card. ",
+            "description": "Pretty Little Liars Inspired Coasters ",
+            "price": 6.00,
+            "category": 3,
+            "image": "smicheal_christmas_card.jpg"
+        }
+    }, {
+        "pk": 54,
+        "model": "products.product",
+        "fields": {
+            "name": "snightmare_before_christmas_baubles.",
+            "description": "Pretty Little Liars Inspired Coasters ",
+            "price": 6.00,
+            "category": 3,
+            "image": "snightmare_before_christmas_baubles.jpg"
+        }
+    }, {
+        "pk": 55,
+        "model": "products.product",
+        "fields": {
+            "name": "spersonalised_bauble ",
+            "description": "Pretty Little Liars Inspired Coasters ",
+            "price": 6.00,
+            "category": 3,
+            "image": "spersonalised_bauble.jpg"
+        }
+    }, {
+        "pk": 56,
+        "model": "products.product",
+        "fields": {
+            "name": "spet_personalised_bauble. ",
+            "description": "Pretty Little Liars Inspired Coasters ",
+            "price": 6.00,
+            "category": 2,
+            "image": "spet_personalised_bauble..jpg"
+        }
+    }, {
+        "pk": 57,
+        "model": "products.product",
+        "fields": {
+            "name": "spookmas_baubles. ",
+            "description": "Pretty Little Liars Inspired Coasters ",
+            "price": 6.00,
+            "category": 3,
+            "image": "spookmas_baubles.jpg"
+        }
+    }
 
 ]
