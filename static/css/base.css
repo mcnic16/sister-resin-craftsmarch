@@ -131,8 +131,12 @@ input[name='q']::placeholder {
     }
 
     .header-container {
-        padding-top: 120px;
+        padding-top: 120px; 
     }
+
+    .header-container-products {
+        padding-top: 44px;
+      }
 
 }
 
