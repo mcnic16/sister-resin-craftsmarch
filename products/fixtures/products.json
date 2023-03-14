@@ -456,7 +456,7 @@
         "description": "Pretty Little Liars Inspired Coasters ",
         "price": 6.00,
         "category": 3,
-        "image": "sfreddie_christmas_card..jpg"
+        "image": "sfreddie_christmas_card.jpg"
     }
 }, {
     "pk": 47,
@@ -486,7 +486,7 @@
         "description": "Pretty Little Liars Inspired Coasters ",
         "price": 6.00,
         "category": 3,
-        "image": "smerry_killmas_card..jpg"
+        "image": "smerry_killmas_card.jpg"
     }
 }, {
     "pk": 50,
@@ -506,7 +506,7 @@
             "description": "Pretty Little Liars Inspired Coasters ",
             "price": 6.00,
             "category": 3,
-            "image": "smerry_killmas_card..jpg"
+            "image": "smerry_killmas_card.jpg"
         }
     }, {
         "pk": 52,
@@ -556,7 +556,7 @@
             "description": "Pretty Little Liars Inspired Coasters ",
             "price": 6.00,
             "category": 2,
-            "image": "spet_personalised_bauble..jpg"
+            "image": "spet_personalised_bauble.jpg"
         }
     }, {
         "pk": 57,
@@ -566,7 +566,7 @@
             "description": "Pretty Little Liars Inspired Coasters ",
             "price": 6.00,
             "category": 3,
-            "image": "spookmas_baubles.jpg"
+            "image": "spookmas_baubles.jpeg"
         }
     }
 
