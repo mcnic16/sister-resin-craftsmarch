@@ -3,7 +3,7 @@
     "model": "products.product",
     "fields": {
         "name": "Chucky Coaster",
-        "description": "Chucky Horror coaster",
+        "description": "Chucky inspired Horror coaster",
         "price": 6.00,
         "category": 1,
         "image": "chucky.jpg"
@@ -53,7 +53,7 @@
     "model": "products.product",
     "fields": {
         "name": "Michael Myers Coaster",
-        "description": "Jason Vorhees coaster from Halloween",
+        "description": "Michael Myers inspired coaster from Halloween",
         "price": 6.00,
         "category": 1,
         "image": "michaelmyers.jpg"
@@ -552,8 +552,8 @@
         "pk": 56,
         "model": "products.product",
         "fields": {
-            "name": "spet_personalised_bauble. ",
-            "description": "Pretty Little Liars Inspired Coasters ",
+            "name": "Pet Personalised Glass Christmas Bauble ",
+            "description": "Simple but beautiful handmade glass personalised Christmas bauble with holly as a border or paw prints for your pets.",
             "price": 6.00,
             "category": 2,
             "image": "spet_personalised_bauble.jpg"
