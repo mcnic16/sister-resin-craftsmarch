@@ -106,7 +106,7 @@ input[name='q']::placeholder {
     color: #aab7c4;
 }
 
-/* to scroll to top pf screen */
+/* to scroll to top of screen */
 #myBtn {
     display: none;
     position: fixed;
