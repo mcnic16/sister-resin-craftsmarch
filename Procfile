@@ -1,1 +1,1 @@
-web: gunicorn sister-resin-crafts.wsgi:application
+web: gunicorn sisterresincrafts.wsgi:application
