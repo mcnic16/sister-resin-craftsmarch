@@ -1,9 +1,13 @@
 <h1 align="center">Sister Resin Craft</h1>
 
-[View live project]()
+[View live project](https://sister-resin-crafts.herokuapp.com/)
 
 This is my 2nd attempt at this site, the majority of the code is copied from my 1st attempt.
 This website is the fully functioning website for SisterResin Crafts. Its is designed to be responsive for mobile and tablet and work on all modern browers.
+Due to health reasons I had a 2 week leave of absence from this project, as you will see with the git commits.
+The site is not finished, I have 2 more models to add which is for a form and for discounts.
+I also had a few problems with deployment and not all the pictures are showing in the deployed version, aswell as the query forms/review section. 
+Also I haven't been able to test the site because I ran out of time.
 The site has 5 pages consisting of a Home page, Other Items, Seasonal, Reviews and Querys and a Terms and Conditions page.
 There is also a Search bar, a registration page and the abiilty to buy items and to become an account holder. 
 This was my 2nd attempt at this project, due to css issues with bootsrap that I couldn't get right I started again, so some of the code on this project has been copied from the previous one.
@@ -146,17 +150,7 @@ As a returning customer I want:
 
 ## Wireframes
 
-<p float="left">
-  <img src="readmefiles/openingpage.jpg" width="200" />
-  <img src="readmefiles/coasters.jpg" width="200" /> 
-  <img src="readmefiles/festive.jpg" width="200" />
-</p>
 
-<p float="left">
-  <img src="readmefiles/otheritems.jpg" width="200" />
-  <img src="readmefiles/printondemand.jpg" width="200" /> 
-  <img src="readmefiles/form.jpg" width="200" />
-</p>
 
 ## Design
 
@@ -165,9 +159,18 @@ The header and the footer of the site will be a light purple with a black font b
 
 ## Typography
 
-
+The typogrphy used is Dancing Script - Playfair Display.
 
 ## Technologies Used
+
+HTML
+CSS
+JAVASCRIPT
+PYTHON
+DJANGO
+STRIPE
+PostgreSQL
+
 
 
 
