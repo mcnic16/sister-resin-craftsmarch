@@ -193,7 +193,23 @@ PostgreSQL
 
 
 ## Deployment
+ElephantSQL
+1. Loged into ElephantSQL.com to access my dashboard
+2. Clicked “Create New Instance”
+3. Named my plan sister-resin-crafts
+4. Selected the Tiny Turtle (Free) plan and left Tags field blank.
+5. Selected Region as :europe-west2
+6. Clicked Review
+7. clicked “Create instance"
+8. Returned to the ElephantSQL dashboard and clicked on the database instance name sister-resin-crafts
+9. In the URL section, I copied the database URL to my clipboard.
 
+Heroku
+1. clicked New to create a new app
+2. Called my app sister-resin-crafts and selected Europe as the region closest to me. Then clicked Create app.
+3. I Opened up the Settings tab 
+4. Added the config var DATABASE_URL, and for the value, copied in my database url from ElephantSQL
+5. 
 
 
 
