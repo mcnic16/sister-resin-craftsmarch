@@ -3,10 +3,11 @@
 [View live project](https://sister-resin-crafts.herokuapp.com/)
 
 This is my 2nd attempt at this site, the majority of the code is copied from my 1st attempt.
-This website is a uncompleted website for SisterResin Crafts. Its is designed to be responsive for mobile and tablet and work on all modern browers.
-Due to health reasons I had a 2 week leave of absence from this project, as you will see with the git commits and also due to my health was unable to complete the project and after further extensions from student support, I felt a bit cheeky asking for more support.
+This website is an uncompleted website for SisterResin Crafts. Its is designed to be responsive for mobile, tablet and work on all modern browers.
+Due to on going health conditions I had a 2 week leave of absence from this project, as you will see with the git commits.
+Due to my health conditions I was unable to complete the project and after further extensions from student support, I don't believe I could have requested any more time.
 The site is not finished, I have 2 more models to add, I have started one for Product Ratings, and the other one would be for queries.
-I also had a few problems with deployment and not all the pictures are showing in the deployed version, aswell as the query forms/review section. 
+I also had a few problems with deployment and not all the pictures are showing in the deployed version, and the queries/review section is uncompleted. 
 Also I haven't been able to test the site because I ran out of time.
 The site has 5 pages consisting of a Home page, Other Items, Seasonal, Reviews and Querys and a Terms and Conditions page.
 There is also a Search bar, a registration page and the abiilty to buy items and to become an account holder. 
