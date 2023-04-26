@@ -122,8 +122,12 @@ input[name='q']::placeholder {
     padding: 15px;
     border-radius: 4px;
   }
+  /* -------------------------------- ratings*/
   
-
+.ratingscard {
+    max-height: 400px;
+    overflow: auto;
+}
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
